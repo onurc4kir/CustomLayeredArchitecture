@@ -1,0 +1,15 @@
+/Users/onur/RiderProjects/StoryBud/Core/bin/Debug/net7.0/Core.deps.json
+/Users/onur/RiderProjects/StoryBud/Core/bin/Debug/net7.0/Core.dll
+/Users/onur/RiderProjects/StoryBud/Core/bin/Debug/net7.0/Core.pdb
+/Users/onur/RiderProjects/StoryBud/Core/bin/Debug/net7.0/Domain.dll
+/Users/onur/RiderProjects/StoryBud/Core/bin/Debug/net7.0/Domain.pdb
+/Users/onur/RiderProjects/StoryBud/Core/obj/Debug/net7.0/Core.csproj.AssemblyReference.cache
+/Users/onur/RiderProjects/StoryBud/Core/obj/Debug/net7.0/Core.GeneratedMSBuildEditorConfig.editorconfig
+/Users/onur/RiderProjects/StoryBud/Core/obj/Debug/net7.0/Core.AssemblyInfoInputs.cache
+/Users/onur/RiderProjects/StoryBud/Core/obj/Debug/net7.0/Core.AssemblyInfo.cs
+/Users/onur/RiderProjects/StoryBud/Core/obj/Debug/net7.0/Core.csproj.CoreCompileInputs.cache
+/Users/onur/RiderProjects/StoryBud/Core/obj/Debug/net7.0/Core.csproj.CopyComplete
+/Users/onur/RiderProjects/StoryBud/Core/obj/Debug/net7.0/Core.dll
+/Users/onur/RiderProjects/StoryBud/Core/obj/Debug/net7.0/refint/Core.dll
+/Users/onur/RiderProjects/StoryBud/Core/obj/Debug/net7.0/Core.pdb
+/Users/onur/RiderProjects/StoryBud/Core/obj/Debug/net7.0/ref/Core.dll

@@ -16,7 +16,6 @@ public static class ApplicationServiceRegistration
 
         services.AddScoped<AuthBusinessRules>();
         services.AddScoped<IAuthService, AuthManager>();
-
         return services;
     }
 }

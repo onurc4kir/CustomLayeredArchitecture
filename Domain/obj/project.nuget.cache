@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "RtSrFXBo33VRzQTP/Or096HzIcizMEUULBcaEUEAFpP8YTjvvPRKArpLVzDEw+zGRbSb9OxF+njF4zEjvedQiA==",
+  "dgSpecHash": "G3uKJGVYVLEI6TzSxYtHdQKLROREGVtboJx+3oPfg/4a9+4xNyApmqGdyf1+mN8NAxga4FTyZpiuFS/9dd0o4Q==",
   "success": true,
-  "projectFilePath": "/Users/onur/RiderProjects/StoryBud/Domain/Domain.csproj",
+  "projectFilePath": "/Users/onur/Developer/CustomLayeredArchitecture/Domain/Domain.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

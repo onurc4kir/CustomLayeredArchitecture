@@ -8,7 +8,6 @@
 
     <ItemGroup>
       <Folder Include="Constants\Messages" />
-      <Folder Include="CrossCuttingConcerns\Caching" />
       <Folder Include="CrossCuttingConcerns\Logging" />
       <Folder Include="Enums" />
     </ItemGroup>

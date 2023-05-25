@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "ZdPy4iynXZQ4m0PKSpIl1LDwDeV8/sn9J+REhzoAoKL9mRkr9U9nlvAl3m1jAqno+g25ABehgPvICL4c+YEDEg==",
+  "dgSpecHash": "EUrj/zt5L1ocT7izVJUQYQ8nCt5VBtItd8W/FLuW0r77YgBmuXu/5/yYNrY2bUQcDnlcC5+84FN192+0HJemeA==",
   "success": true,
-  "projectFilePath": "/Users/onur/RiderProjects/StoryBud/Core/Core.csproj",
+  "projectFilePath": "/Users/onur/Developer/CustomLayeredArchitecture/Core/Core.csproj",
   "expectedPackageFiles": [
     "/Users/onur/.nuget/packages/castle.core/1.2.0/castle.core.1.2.0.nupkg.sha512",
     "/Users/onur/.nuget/packages/castle.dynamicproxy/2.2.0/castle.dynamicproxy.2.2.0.nupkg.sha512",

@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "aCbRoSy9LIY6LZ+7ru6/u1DHz7v6a91/4oW0pjr3+0Opiinv+PAmYRTCA4SOZvur6MdVpA5o971qaUTffXsa2Q==",
+  "dgSpecHash": "45p+TTfOBdBHDb3rRle452N+rFR/sYALilHWXLMKKygFRuZYpWPxIluFRgS+oodAMhySll0tfditFe+WqbupkQ==",
   "success": true,
-  "projectFilePath": "/Users/onur/RiderProjects/StoryBud/Application/Application.csproj",
+  "projectFilePath": "/Users/onur/Developer/CustomLayeredArchitecture/Application/Application.csproj",
   "expectedPackageFiles": [
     "/Users/onur/.nuget/packages/automapper/12.0.1/automapper.12.0.1.nupkg.sha512",
     "/Users/onur/.nuget/packages/automapper.extensions.microsoft.dependencyinjection/12.0.1/automapper.extensions.microsoft.dependencyinjection.12.0.1.nupkg.sha512",

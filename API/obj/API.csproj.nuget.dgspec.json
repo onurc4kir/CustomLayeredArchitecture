@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/Users/onur/RiderProjects/StoryBud/API/API.csproj": {}
+    "/Users/onur/Developer/CustomLayeredArchitecture/API/API.csproj": {}
   },
   "projects": {
-    "/Users/onur/RiderProjects/StoryBud/API/API.csproj": {
+    "/Users/onur/Developer/CustomLayeredArchitecture/API/API.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/onur/RiderProjects/StoryBud/API/API.csproj",
+        "projectUniqueName": "/Users/onur/Developer/CustomLayeredArchitecture/API/API.csproj",
         "projectName": "API",
-        "projectPath": "/Users/onur/RiderProjects/StoryBud/API/API.csproj",
+        "projectPath": "/Users/onur/Developer/CustomLayeredArchitecture/API/API.csproj",
         "packagesPath": "/Users/onur/.nuget/packages/",
-        "outputPath": "/Users/onur/RiderProjects/StoryBud/API/obj/",
+        "outputPath": "/Users/onur/Developer/CustomLayeredArchitecture/API/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/Users/onur/.nuget/NuGet/NuGet.Config"
@@ -26,11 +26,11 @@
           "net7.0": {
             "targetAlias": "net7.0",
             "projectReferences": {
-              "/Users/onur/RiderProjects/StoryBud/Application/Application.csproj": {
-                "projectPath": "/Users/onur/RiderProjects/StoryBud/Application/Application.csproj"
+              "/Users/onur/Developer/CustomLayeredArchitecture/Application/Application.csproj": {
+                "projectPath": "/Users/onur/Developer/CustomLayeredArchitecture/Application/Application.csproj"
               },
-              "/Users/onur/RiderProjects/StoryBud/Persistence/Persistence.csproj": {
-                "projectPath": "/Users/onur/RiderProjects/StoryBud/Persistence/Persistence.csproj"
+              "/Users/onur/Developer/CustomLayeredArchitecture/Persistence/Persistence.csproj": {
+                "projectPath": "/Users/onur/Developer/CustomLayeredArchitecture/Persistence/Persistence.csproj"
               }
             }
           }
@@ -87,14 +87,14 @@
         }
       }
     },
-    "/Users/onur/RiderProjects/StoryBud/Application/Application.csproj": {
+    "/Users/onur/Developer/CustomLayeredArchitecture/Application/Application.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/onur/RiderProjects/StoryBud/Application/Application.csproj",
+        "projectUniqueName": "/Users/onur/Developer/CustomLayeredArchitecture/Application/Application.csproj",
         "projectName": "Application",
-        "projectPath": "/Users/onur/RiderProjects/StoryBud/Application/Application.csproj",
+        "projectPath": "/Users/onur/Developer/CustomLayeredArchitecture/Application/Application.csproj",
         "packagesPath": "/Users/onur/.nuget/packages/",
-        "outputPath": "/Users/onur/RiderProjects/StoryBud/Application/obj/",
+        "outputPath": "/Users/onur/Developer/CustomLayeredArchitecture/Application/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/Users/onur/.nuget/NuGet/NuGet.Config"
@@ -109,11 +109,11 @@
           "net7.0": {
             "targetAlias": "net7.0",
             "projectReferences": {
-              "/Users/onur/RiderProjects/StoryBud/Core/Core.csproj": {
-                "projectPath": "/Users/onur/RiderProjects/StoryBud/Core/Core.csproj"
+              "/Users/onur/Developer/CustomLayeredArchitecture/Core/Core.csproj": {
+                "projectPath": "/Users/onur/Developer/CustomLayeredArchitecture/Core/Core.csproj"
               },
-              "/Users/onur/RiderProjects/StoryBud/Persistence/Persistence.csproj": {
-                "projectPath": "/Users/onur/RiderProjects/StoryBud/Persistence/Persistence.csproj"
+              "/Users/onur/Developer/CustomLayeredArchitecture/Persistence/Persistence.csproj": {
+                "projectPath": "/Users/onur/Developer/CustomLayeredArchitecture/Persistence/Persistence.csproj"
               }
             }
           }
@@ -169,14 +169,14 @@
         }
       }
     },
-    "/Users/onur/RiderProjects/StoryBud/Core/Core.csproj": {
+    "/Users/onur/Developer/CustomLayeredArchitecture/Core/Core.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/onur/RiderProjects/StoryBud/Core/Core.csproj",
+        "projectUniqueName": "/Users/onur/Developer/CustomLayeredArchitecture/Core/Core.csproj",
         "projectName": "Core",
-        "projectPath": "/Users/onur/RiderProjects/StoryBud/Core/Core.csproj",
+        "projectPath": "/Users/onur/Developer/CustomLayeredArchitecture/Core/Core.csproj",
         "packagesPath": "/Users/onur/.nuget/packages/",
-        "outputPath": "/Users/onur/RiderProjects/StoryBud/Core/obj/",
+        "outputPath": "/Users/onur/Developer/CustomLayeredArchitecture/Core/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/Users/onur/.nuget/NuGet/NuGet.Config"
@@ -191,8 +191,8 @@
           "net7.0": {
             "targetAlias": "net7.0",
             "projectReferences": {
-              "/Users/onur/RiderProjects/StoryBud/Domain/Domain.csproj": {
-                "projectPath": "/Users/onur/RiderProjects/StoryBud/Domain/Domain.csproj"
+              "/Users/onur/Developer/CustomLayeredArchitecture/Domain/Domain.csproj": {
+                "projectPath": "/Users/onur/Developer/CustomLayeredArchitecture/Domain/Domain.csproj"
               }
             }
           }
@@ -264,14 +264,14 @@
         }
       }
     },
-    "/Users/onur/RiderProjects/StoryBud/Domain/Domain.csproj": {
+    "/Users/onur/Developer/CustomLayeredArchitecture/Domain/Domain.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/onur/RiderProjects/StoryBud/Domain/Domain.csproj",
+        "projectUniqueName": "/Users/onur/Developer/CustomLayeredArchitecture/Domain/Domain.csproj",
         "projectName": "Domain",
-        "projectPath": "/Users/onur/RiderProjects/StoryBud/Domain/Domain.csproj",
+        "projectPath": "/Users/onur/Developer/CustomLayeredArchitecture/Domain/Domain.csproj",
         "packagesPath": "/Users/onur/.nuget/packages/",
-        "outputPath": "/Users/onur/RiderProjects/StoryBud/Domain/obj/",
+        "outputPath": "/Users/onur/Developer/CustomLayeredArchitecture/Domain/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/Users/onur/.nuget/NuGet/NuGet.Config"
@@ -317,14 +317,14 @@
         }
       }
     },
-    "/Users/onur/RiderProjects/StoryBud/Persistence/Persistence.csproj": {
+    "/Users/onur/Developer/CustomLayeredArchitecture/Persistence/Persistence.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/onur/RiderProjects/StoryBud/Persistence/Persistence.csproj",
+        "projectUniqueName": "/Users/onur/Developer/CustomLayeredArchitecture/Persistence/Persistence.csproj",
         "projectName": "Persistence",
-        "projectPath": "/Users/onur/RiderProjects/StoryBud/Persistence/Persistence.csproj",
+        "projectPath": "/Users/onur/Developer/CustomLayeredArchitecture/Persistence/Persistence.csproj",
         "packagesPath": "/Users/onur/.nuget/packages/",
-        "outputPath": "/Users/onur/RiderProjects/StoryBud/Persistence/obj/",
+        "outputPath": "/Users/onur/Developer/CustomLayeredArchitecture/Persistence/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/Users/onur/.nuget/NuGet/NuGet.Config"
@@ -339,8 +339,8 @@
           "net7.0": {
             "targetAlias": "net7.0",
             "projectReferences": {
-              "/Users/onur/RiderProjects/StoryBud/Domain/Domain.csproj": {
-                "projectPath": "/Users/onur/RiderProjects/StoryBud/Domain/Domain.csproj"
+              "/Users/onur/Developer/CustomLayeredArchitecture/Domain/Domain.csproj": {
+                "projectPath": "/Users/onur/Developer/CustomLayeredArchitecture/Domain/Domain.csproj"
               }
             }
           }
